@@ -59,11 +59,13 @@ Clone ise bir depoyu kendi bilgisayarınıza indirmenizi sağlar. Bu, yerel olar
 - **Eğitim ve Öğrenme**: Eğitim materyalleri, örnek kodlar ve kişisel projeler GitHub üzerinde barındırılabilir.
 - **Portföyler**: Geliştiriciler, GitHub depolarını portföy olarak kullanabilir, yazdıkları kodları paylaşabilirler.
 
-## How to Cite / Nasıl Alıntı Yapılır
-
-- **IEEE**: Ç. Yaşar, A. Kaya, İ. Hız and O. E. Kaya, "Web Tabanlı Eğitim Platformu Geliştirme Sistem Analizi ve Tasarımı"  SOCRATES 10th INTERNATIONAL HEALTH, ENGINEERING AND APPLIED SCIENCES CONGRESS, vol.1, London, England, pp.120-127, 2023                               
-- **APA**: Yaşar, Ç., Kaya, A., Hız, İ. & Kaya, O. E. (2025).  Web Tabanlı Eğitim Platformu Geliştirme Sistem Analizi ve Tasarımı. SOCRATES 10th INTERNATIONAL HEALTH, ENGINEERING AND APPLIED SCIENCES CONGRESS (pp.120-127). London, England                            
-- **MLA**: Yaşar, ÇİSEM, Kaya, ABDULKADİR, Hız, İSMAİL, ve KAYA, OZAN EREN.  "Web Tabanlı Eğitim Platformu Geliştirme Sistem Analizi ve Tasarımı"  SOCRATES 10th INTERNATIONAL HEALTH, ENGINEERING AND APPLIED SCIENCES CONGRESS, London, England, pp.120-127, 2025               
+## Bu Github paylaşımının IEEE ve APA formatlarınada atıf verilme şekli:
+- IEEE--> C. Yasar, "Git-vs-Github" GitHub, [Online]. Erişim Linki: https://github.com/cyasar34/Git-vs-Github Son Erişim Tarihi: Gün Ay Yıl.
+- APA--> Yasar, C. (2024). Git-vs-Github[GitHub Deposu]. GitHub. Erişim Linki: https://github.com/cyasar34/Git-vs-Github Son Erişim Tarihi: Gün Ay Yıl.
+  
+> **Proje Durumu:** İlgili dokümanların paylaşımı ders kapsamında gerçekleştirilmiştir. GitHub bölümünden beğeni bildirimi olarak bir yıldız vererek çalışmalarımı destekleyebilirsiniz. <br>
+> **Katkıda Bulunma:** Dokümanlarınızda kullanılacaksanız ilgili atıf yöntemlerini kullanmanız ve haber vermeniz çok önemlidir. <br>
+> **Lisans:** MIT Lisansı altında yayımlandı.  
 
 License:
 This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
