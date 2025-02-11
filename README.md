@@ -5,7 +5,7 @@
 <p align="justify">Git, günümüzde dünya çapında yazılım geliştiricilerinin kullandığı en popüler sürüm kontrol sistemlerinden biridir. GitHub, GitLab, Bitbucket gibi platformlar üzerinden milyonlarca açık kaynak proje ve ekip çalışması yürütülmektedir.</p>
 
 ## Git Nedir?
-- Bir bir versiyon kontorl sistemi VCS (Version Control System) yazılımıdır.. Yani, yazılım projelerindeki dosya değişikliklerini takip etmenizi sağlar.
+- Bir bir versiyon kontrol sistemi VCS (Version Control System) yazılımıdır.. Yani, yazılım projelerindeki dosya değişikliklerini takip etmenizi sağlar.
 - Git, projenizin geçmişini saklar ve farklı sürümler arasında geçiş yapmanıza imkan tanır.
 - Git, bir komut satırı aracı olarak çalışır, yani dosyalarınızı yerel olarak yönetirsiniz. İnternet bağlantısına gerek yoktur, ancak dosyalarınızı paylaşmak isterseniz uzak bir depoya yüklemeniz gerekir.
 
