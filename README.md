@@ -1,7 +1,7 @@
 # Git vs Github
 
 ## Git Tarihçesi
-<p align="justify">2005 yılı öncesinde Linux işletim sistemi çekirdeği, kapalı kaynak kodlu olan BitKeeper sistemi üzerinde geliştirilmekteydi. BitKeeper’ın sahibi olan f irmanın, Linux geliştiricilerine tanımış olduğu ücretsiz kullanım iznini iptal etmesi üzerine Linus Torvalds ve diğer çekirdek geliştiricileri kendi sürüm kontrol sistemlerini geliştirmeye başlarlar. Bu yeni sürüm kontrol sistemi Git adını alır.</p>
+<p align="justify">2005 yılı öncesinde Linux işletim sistemi çekirdeği, kapalı kaynak kodlu olan BitKeeper sistemi üzerinde geliştirilmekteydi. BitKeeper’ın sahibi olan firmanın, Linux geliştiricilerine tanımış olduğu ücretsiz kullanım iznini iptal etmesi üzerine Linus Torvalds ve diğer çekirdek geliştiricileri kendi sürüm kontrol sistemlerini geliştirmeye başlarlar. Bu yeni sürüm kontrol sistemi Git adını alır.</p>
 <p align="justify">Git, günümüzde dünya çapında yazılım geliştiricilerinin kullandığı en popüler sürüm kontrol sistemlerinden biridir. GitHub, GitLab, Bitbucket gibi platformlar üzerinden milyonlarca açık kaynak proje ve ekip çalışması yürütülmektedir.</p>
 
 ## Git Nedir?
